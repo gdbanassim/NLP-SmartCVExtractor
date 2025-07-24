@@ -1,0 +1,10 @@
+streamlit
+python-docx
+pdfplumber
+spacy
+transformers
+sentence-transformers
+pandas
+openpyxl
+docx
+en_core_web_sm
